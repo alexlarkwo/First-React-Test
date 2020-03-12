@@ -1,3 +1,13 @@
+.pageOne,.pageTwo,.pageThree, .logo{
+  float:right;
+  display:inline-block;
+  margin: 10px 10px 10px 0px;
+  align-content: center;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+
 .App {
   text-align: center;
 }
